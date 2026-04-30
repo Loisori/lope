@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+litellm
+duckduckgo-search
+tavily-python
+httpx
+pydantic
